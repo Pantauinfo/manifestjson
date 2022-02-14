@@ -1,41 +1,35 @@
 {
- "name": "Pantauinfo",
- "icons": [
-  {
-   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEin78sDf4zQ1xGgUSV2BLmYXsptFCq9AFifMedYE6oXesO8MlOb3hiK37RCH1n6TxgaHny1v2v7GKq24HbpKjFy0qDZwBrKxFBUEgb1DtBMMr8ox1Tb6UzBePuphqHMCaoa9g7tb1wQXDevi7lpKLJkMuHrB4M1eVG8tg_4z-iZbi12xzEQopmrwCCC=s36",
-   "sizes": "36x36",
-   "type": "image\/png",
-   "density": "0.75"
-  },
-  {
-   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjUyDglIbPpidV6avM36CTvOyakd_OGP8EGyzQbYcOt00CGcqawcjlKE3Ews4UGZXyeIdf7pyIuhmLhNOIL_gsjR_BJc7k_mUyOKRBZYpkMG3sZEgmKwaFgz_YcqS6iXJymwyrkp31k40jQjRIgI70H8zA2lpCIkeKVfEBNZ7WtMcZB0jr8L6qo0yn1=s48",
-   "sizes": "48x48",
-   "type": "image\/png",
-   "density": "1.0"
-  },
-  {
-   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhbKd8y9aXtEHcp7BZ2bMBqs87U-PxAmS7RK3YUMd98bB7enOSGHgwRbHpgHSbCZSrstTmCbPaXWeq_UiJtXn99nPpuZ7O8RUdeXA6tuAEKrXE1X3bJYItGId4TFB4BGoOWGWQ2-8TpSUXY8td7r2u8S4-I7r5SnyfFIdAcOf1lWqa2OaiMucc5VbrI=s72",
-   "sizes": "72x72",
-   "type": "image\/png",
-   "density": "1.5"
-  },
-  {
-   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhGSsGvVqcmF-4wb98r4n6WE5lbDVfeEkJM2nV3dX3mJ8EcFZOvmNM34wf3Z8ijwA5ggsIbiJnVRYZh7RnSxUQRBHQRtizmAeESgYE3SUjgYHnkbDOmWmeyY9U6Vb3pHogYn8THXWCiI4_mcQ71SqCXux83MrCMykgQlc0xmAIsAZw00DnlGj9yagRa=s96",
-   "sizes": "96x96",
-   "type": "image\/png",
-   "density": "2.0"
-  },
-  {
-   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiT9RSSJgfvI9a-Fw9TVyJbHZ6TgeIZy2S8EjDTKmd0aukiBJ7Palv5rUxTLAGNE_jTE1ROgNpUX8QTxhB3_AD9reIwcRdNfkMh-R045j6-U7WQjvfaRBpvwfeKEke7WbVVH8i4MGaO-q0JM_-VdnXj_-SmdP1AYa_Y_Lt1qFyH0wWLvNngYZ7bNn0N=s144",
-   "sizes": "144x144",
-   "type": "image\/png",
-   "density": "3.0"
-  },
-  {
-   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiy4cnT6O6isoGTYt96LKKbL0E6kmTjLTkask60sAquQ3NMYp3l5hdrOVKj6mWunolT-jIaMpoCnkvas5OECzipb0GZC1KDtVsx5uZH5r6vjiwafsuFPmAvM-zpO_p9cfgi6sDgwx-6yoOjKEmLq7Qs5bYYws3v_ohcwemJfcvDuvWSQie8t3Q-c7Ng=s192",
-   "sizes": "192x192",
-   "type": "image\/png",
-   "density": "4.0"
-  }
- ]
+  "name": "PantauInfo",
+  "short_name": "PantauInfo,
+  "scope": "https://www.pantauinfo.com",
+  "start_url": "https://www.pantauinfo.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Mengulas sepeutar teknologi, kesehatan, dan topik terkait lainnya",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEin78sDf4zQ1xGgUSV2BLmYXsptFCq9AFifMedYE6oXesO8MlOb3hiK37RCH1n6TxgaHny1v2v7GKq24HbpKjFy0qDZwBrKxFBUEgb1DtBMMr8ox1Tb6UzBePuphqHMCaoa9g7tb1wQXDevi7lpKLJkMuHrB4M1eVG8tg_4z-iZbi12xzEQopmrwCCC=s36",
+    "sizes": "36x36",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjUyDglIbPpidV6avM36CTvOyakd_OGP8EGyzQbYcOt00CGcqawcjlKE3Ews4UGZXyeIdf7pyIuhmLhNOIL_gsjR_BJc7k_mUyOKRBZYpkMG3sZEgmKwaFgz_YcqS6iXJymwyrkp31k40jQjRIgI70H8zA2lpCIkeKVfEBNZ7WtMcZB0jr8L6qo0yn1=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhbKd8y9aXtEHcp7BZ2bMBqs87U-PxAmS7RK3YUMd98bB7enOSGHgwRbHpgHSbCZSrstTmCbPaXWeq_UiJtXn99nPpuZ7O8RUdeXA6tuAEKrXE1X3bJYItGId4TFB4BGoOWGWQ2-8TpSUXY8td7r2u8S4-I7r5SnyfFIdAcOf1lWqa2OaiMucc5VbrI=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhGSsGvVqcmF-4wb98r4n6WE5lbDVfeEkJM2nV3dX3mJ8EcFZOvmNM34wf3Z8ijwA5ggsIbiJnVRYZh7RnSxUQRBHQRtizmAeESgYE3SUjgYHnkbDOmWmeyY9U6Vb3pHogYn8THXWCiI4_mcQ71SqCXux83MrCMykgQlc0xmAIsAZw00DnlGj9yagRa=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiT9RSSJgfvI9a-Fw9TVyJbHZ6TgeIZy2S8EjDTKmd0aukiBJ7Palv5rUxTLAGNE_jTE1ROgNpUX8QTxhB3_AD9reIwcRdNfkMh-R045j6-U7WQjvfaRBpvwfeKEke7WbVVH8i4MGaO-q0JM_-VdnXj_-SmdP1AYa_Y_Lt1qFyH0wWLvNngYZ7bNn0N=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEiy4cnT6O6isoGTYt96LKKbL0E6kmTjLTkask60sAquQ3NMYp3l5hdrOVKj6mWunolT-jIaMpoCnkvas5OECzipb0GZC1KDtVsx5uZH5r6vjiwafsuFPmAvM-zpO_p9cfgi6sDgwx-6yoOjKEmLq7Qs5bYYws3v_ohcwemJfcvDuvWSQie8t3Q-c7Ng=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }]
 }
