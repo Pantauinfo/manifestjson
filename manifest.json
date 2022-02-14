@@ -2,7 +2,7 @@
   "name": "PantauInfo",
   "short_name": "PantauInfo,
   "scope": "https://www.pantauinfo.com",
-  "start_url": "https://www.pantauinfo.com/?m=1",
+  "start_url": "https://www.pantauinfo.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
